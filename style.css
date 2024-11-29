@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(226, 223, 223);
+}
+
+.main-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45vh;
+    background-color: hsl(0, 0%, 100%);
+    width: 13vw;
+    margin-left: 35vh;
+    margin-top: 10vh;
+}
+
+#word{
+    /* font-size: 2rem; */
+    align-items: center;
+    text-align: center;
+    /* margin: auto; */
+    margin-top: 10px;
+}
+
+#quicker{
+    color: blueviolet;
+}
+
